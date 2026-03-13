@@ -26,5 +26,4 @@ public class Builder {
     public static void main(String[] args) {
         logger.info("Hello init builder pattern!!");
     }
-    
 }
