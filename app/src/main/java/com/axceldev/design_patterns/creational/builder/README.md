@@ -1,5 +1,7 @@
 # Builder pattern
 
+![image-builder-pattern.png](../../../../../../resources/images/image-builder-pattern.png)
+
 ## ¿Qué es el patrón?
 Es un patrón creacional que separa la construcción de un objeto complejo de su representación, permitiendo que el mismo proceso de construcción pueda crear diferentes representaciones del objeto.
 

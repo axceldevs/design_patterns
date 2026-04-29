@@ -1,5 +1,7 @@
 # Factory method pattern
 
+![image-factory-method-pattern.png](../../../../../../resources/images/image-factory-method-pattern.png)
+
 ## ¿Qué es el patrón?
 Es un patrón creacional que define una interfaz para crear un objeto, pero deja que las subclases decidan qué clase concreta instanciar. En lugar de llamar directamente al constructor, se delega la creación a un método fábrica que puede ser sobreescrito.
 

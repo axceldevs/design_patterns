@@ -1,5 +1,7 @@
 # Abstract Factory pattern
 
+![image-abstract-factory-pattern.png](../../../../../../resources/images/image-abstract-factory-pattern.png)
+
 ## ¿Qué es el patrón?
 Es un patrón creacional que proporciona una interfaz para crear familias de objetos relacionados o dependientes entre sí, sin especificar sus clases concretas.
 

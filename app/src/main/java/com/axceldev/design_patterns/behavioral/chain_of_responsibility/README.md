@@ -1,5 +1,7 @@
 # Chain of responsibility pattern
 
+![image_chain_responsibility_pattern.png](../../../../../../resources/images/image_chain_responsibility_pattern.png)
+
 ## ¿Qué es el patrón?
 Es un patrón de comportamiento que permite pasar solicitudes a lo largo de una cadena de manejadores, donde cada uno decide si procesa la solicitud o la pasa al siguiente manejador de la cadena.
 

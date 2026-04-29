@@ -1,5 +1,7 @@
 # Singleton pattern
 
+![image-singleton-pattern.png](../../../../../../resources/images/image-singleton-pattern.png)
+
 ## ¿Qué es el patrón?
 Es un patrón creacional que garantiza que una clase tenga una única instancia en toda la aplicación y proporciona un punto de acceso global a dicha instancia.
 

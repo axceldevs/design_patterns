@@ -1,5 +1,7 @@
 # Prototype pattern
 
+![image-prototype-pattern.png](../../../../../../resources/images/image-prototype-pattern.png)
+
 ## ¿Qué es el patrón?
 Es un patrón creacional que permite copiar objetos existentes sin que el código dependa de sus clases concretas. El propio objeto es responsable de clonarse a sí mismo.
 

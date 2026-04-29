@@ -1,5 +1,5 @@
 # Command pattern
-
+![image_command_pattern.png](../../../../../../resources/images/image_command_pattern.png)
 ## ¿Qué es el patrón?
 Es un patrón de comportamiento que convierte una solicitud en un objeto independiente que contiene toda la información sobre dicha solicitud, permitiendo parametrizar métodos con diferentes solicitudes y aplazar su ejecución.
 
