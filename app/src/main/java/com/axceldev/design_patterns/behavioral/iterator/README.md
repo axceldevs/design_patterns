@@ -1,5 +1,5 @@
 # Iterator pattern
-
+![image_iterator_pattern.png](../../../../../../resources/images/image_iterator_pattern.png)
 ## ¿Qué es el patrón?
 Es un patrón de comportamiento que proporciona una forma de recorrer secuencialmente los elementos de una colección sin exponer su representación interna (lista, árbol, grafo, etc.).
 
