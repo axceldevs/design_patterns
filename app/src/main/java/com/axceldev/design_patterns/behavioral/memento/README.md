@@ -1,5 +1,5 @@
 # Memento pattern
-
+![image_memento_pattern.png](../../../../../../resources/images/image_memento_pattern.png)
 ## ¿Qué es el patrón?
 Es un patrón de comportamiento que permite capturar y externalizar el estado interno de un objeto en un momento dado, para poder restaurarlo posteriormente, sin violar el principio de encapsulamiento.
 
