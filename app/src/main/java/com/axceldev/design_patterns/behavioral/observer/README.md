@@ -1,5 +1,5 @@
 # Observer pattern
-
+![image_observer_pattern.png](../../../../../../resources/images/image_observer_pattern.png)
 ## ¿Qué es el patrón?
 Es un patrón de comportamiento que define una dependencia de uno a muchos entre objetos, de modo que cuando un objeto (sujeto) cambia de estado, todos sus dependientes (observadores) son notificados y actualizados automáticamente.
 
